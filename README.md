@@ -14,6 +14,9 @@ Este repositório contém uma seleção de projetos de estudo em React, projetad
 
 4. **Formulário Multistep**
    - Um formulário de várias etapas (multistep) que orienta o usuário através de diferentes seções de informações, mantendo os dados durante os passos.
+     
+5. **Mini-Blog usando API externa**
+   - Um pequeno blog com um CRUD, ultilizando uma API externa, para complementar o entendimento das requisições e da ultilização da biblioteca Axios
 
 ## Como Usar
 1. Clone este repositório:
